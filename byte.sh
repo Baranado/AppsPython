@@ -1,1 +1,0 @@
-echo "Helou World"
